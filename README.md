@@ -1,3 +1,9 @@
+# Planner-App
+
+Creating SPA with minimal baseline style useing CSS 
+The application need to read input data and to save them in next reload page
+ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
